@@ -1,0 +1,5 @@
+project: image-gif
+target: decode
+
+cmds:
+  - cmd: /decode
